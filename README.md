@@ -14,10 +14,13 @@ Simple Offline Accounts Keeper. It just simply keeps your personal accounts in a
 
 ## Images
 - **Login Window**
+
 ![Login Window](./app_images/login.png)
 - **Main APP**
+
 ![Main APP](./app_images/dashboard.png)
 - **Change Password**
+
 ![Change Password](./app_images/change_pass.png)
 
 ### First (1st) Launch / Start
