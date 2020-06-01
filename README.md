@@ -38,6 +38,7 @@ Simple Offline Accounts Keeper. It just simply keeps your personal accounts in a
 
 ### Configuration
 **Default Password**: admin123
+
 _You can change the password by clicking on the [Change Account Password] button in the main dashboard_
 
 ### TODOs:
